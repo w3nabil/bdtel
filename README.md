@@ -5,9 +5,9 @@ BDTel API is a simple bangladeshi phone number telecom name API that allows you 
 ## INSIDE V1 
 
 I have only 2 different format in this version 1. 
-- Simple : Easist to work with . see the examples for more information. [-> ./v1/simple/](./v1/simple/)
+- Simple : Easist to work with . see the examples for more information. --> [./v1/simple/](./v1/simple/) <br>
 Limitations : My simple version doesn't support line number algorithm.  
-- Raw : Offers every telecom providers information including Line numbers, VoIP and phone numbers.  [-> ./v1/raw/](./v1/raw/)
+- Raw : Offers every telecom providers information including Line numbers, VoIP and phone numbers. --> [./v1/raw/](./v1/raw/)
 
 ## Usage
 
