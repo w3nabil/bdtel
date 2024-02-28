@@ -4,8 +4,8 @@ number = "01500000000"
 modified_number = "+88" + f"{number}"
 
 # URL (Read readme.md before using the raw_url)
-url = "https://w3nabil.github.io/bdtelcom-api/v1/simple"
-raw_url = "https://w3nabil.github.io/bdtelcom-api/v1/raw"
+url = "https://w3nabil.github.io/bdtel/v1/simple"
+raw_url = "https://w3nabil.github.io/bdtel/v1/raw"
 
 # API endpoint 
 api_endpoint = f"{url}/{modified_number[0:8]}.json"
